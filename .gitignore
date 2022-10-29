@@ -6,3 +6,11 @@ bloco7_autoenconders/data/MNIST/raw/train-images-idx3-ubyte
 bloco7_autoenconders/data/MNIST/raw/train-images-idx3-ubyte.gz
 bloco7_autoenconders/data/MNIST/raw/train-labels-idx1-ubyte
 bloco7_autoenconders/data/MNIST/raw/train-labels-idx1-ubyte.gz
+bloco6_autoenconders/data/MNIST/raw/t10k-images-idx3-ubyte
+bloco6_autoenconders/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+bloco6_autoenconders/data/MNIST/raw/t10k-labels-idx1-ubyte
+bloco6_autoenconders/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+bloco6_autoenconders/data/MNIST/raw/train-images-idx3-ubyte
+bloco6_autoenconders/data/MNIST/raw/train-images-idx3-ubyte.gz
+bloco6_autoenconders/data/MNIST/raw/train-labels-idx1-ubyte
+bloco6_autoenconders/data/MNIST/raw/train-labels-idx1-ubyte.gz
